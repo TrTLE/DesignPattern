@@ -1,4 +1,4 @@
-package design.pattern.abstractFactory;
+package designPattern.abstractFactory;
 
 //https://www.go4expert.com/articles/design-patterns-simple-examples-t5127/#abfactory
 

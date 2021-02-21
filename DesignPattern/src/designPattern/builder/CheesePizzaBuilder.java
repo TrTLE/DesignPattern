@@ -1,4 +1,4 @@
-package design.pattern.builder;
+package designPattern.builder;
 
 public class CheesePizzaBuilder extends PizzaBuilder {
 

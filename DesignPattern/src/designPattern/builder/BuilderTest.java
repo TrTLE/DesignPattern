@@ -1,4 +1,4 @@
-package design.pattern.builder;
+package designPattern.builder;
 
 //https://www.go4expert.com/articles/design-patterns-simple-examples-t5127/#builder
 	

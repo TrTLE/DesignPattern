@@ -1,4 +1,4 @@
-package design.pattern.singleton;
+package designPattern.singleton;
 
 //https://www.go4expert.com/articles/design-patterns-simple-examples-t5127/#singleton
 
